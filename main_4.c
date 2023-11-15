@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 //By: Matthias Maraj
-//Student ID: N01546871
 //Date: Oct 31st, 2022
 int main()
 {
