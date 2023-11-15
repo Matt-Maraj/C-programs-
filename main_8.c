@@ -2,7 +2,6 @@
 #include <stdlib.h>
 //Name: Matthias Maraj
 //Date: December 17th 2022
-//Student ID: n01546871
 
 int main()
 {
