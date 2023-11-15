@@ -3,7 +3,6 @@
 /*
 Created by: Matthias Maraj
 due: October 17, 2022
-Student number: N01546871
 */
 int main()
 {
