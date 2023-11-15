@@ -2,7 +2,6 @@
 #include <stdlib.h>
 //Name: Matthias Maraj
 //Date: Dec 13, 2022
-//Student ID: N01546871
 
 float priceCalculation(int overdueBy);
 
