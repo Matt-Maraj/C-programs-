@@ -2,7 +2,6 @@
 #include <stdlib.h>
 //Name: Matthias Maraj
 //Date: Dec 12, 2022
-//Student ID: n01546871
 
 //Function delcared first
 int triangleFull(int firstSide, int secondSide, int thirdSide);
