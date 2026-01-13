@@ -6,11 +6,11 @@ int main()
 {
     //declare your variables
     //real number is a decimal/float and integer is just a whole number
-    //Last 3 digits of Matthias' student # is: 871
+    //Last 3 digits is: 888
     int intNum;
     float realNum;
     float sum;
-    float studentNum = 871;
+    float studentNum = 888;
 
     //Gathering user input
 
@@ -82,3 +82,4 @@ int main()
     return 0;
 
 }
+
