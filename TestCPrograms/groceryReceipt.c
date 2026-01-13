@@ -2,7 +2,7 @@
 #include <stdlib.h>
 /*
 Created by: Matthias Maraj
-due: October 17, 2022
+date: October 17, 2022
 */
 int main()
 {
@@ -78,3 +78,4 @@ int main()
     printf("\n=================================================================================\n");
     return 0;
 }
+
