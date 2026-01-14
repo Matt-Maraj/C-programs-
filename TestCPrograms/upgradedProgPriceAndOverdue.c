@@ -25,7 +25,7 @@ int main()
 
 
         //check for when book is not overdue.
-        //This assumes negative numbers means the person has come erlier than the
+        //This assumes negative numbers means the person has come earlier than the
         //day they needed to return it.
 
         for(int i = 0; i < 5; i++)
@@ -51,3 +51,4 @@ float priceCalculation(int overdueBy)
     return 0.5 + (overdueBy * 0.5);
 
 }
+
